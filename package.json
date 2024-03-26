@@ -1,0 +1,18 @@
+{
+  "name": "tes_dicoding-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node src/start.js",
+    "start-dev": "nodemon src/start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.7",
+    "nanoid": "^3.3.7",
+    "nodemon": "^3.1.0"
+  }
+}
